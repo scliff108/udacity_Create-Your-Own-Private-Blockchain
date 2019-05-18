@@ -3,7 +3,7 @@ Screenshots are in the screenshots directory:
 ![Request: http://localhost:8000/requestValidation ](screenshots/2-wallet-address.png)
 ![Use the Wallet to sign a message](screenshots/3-sign-message.png)
 ![Request: http://localhost:8000/submitstar](screenshots/4-submit-star.png)
-![Request: http://localhost:8000/blocks/<WALLET_ADDRESS>](screenshots/5-retrieve-star.png)
+![Request: http://localhost:8000/blocks/<WALLET_ADDRESS>](screenshots/5-retrieve-stars.png)
 
 # Private Blockchain Application
 
